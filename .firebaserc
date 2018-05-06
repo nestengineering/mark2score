@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "staging": "Mark2score",
+    "default": "Mark2score"
+  }
+}
